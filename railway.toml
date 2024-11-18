@@ -1,0 +1,5 @@
+[service]
+name = "stellar-kindness"
+start = "sh start.sh"
+
+
